@@ -1,1 +1,2 @@
 # PocketModeApp
+android用の
